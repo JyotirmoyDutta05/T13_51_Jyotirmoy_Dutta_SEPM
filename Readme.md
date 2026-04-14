@@ -5,8 +5,8 @@
 **Semester:** VI  
 
 ## Student Details
-- **Name:** Naman Maheshwari 
-- **Roll No:** 2301064
+- **Name:** Jyotirmoy Dutta
+- **Roll No:** 2301051
 - **Branch:** AI&DS  
 - **Academic Year:** 2025–26  
 
